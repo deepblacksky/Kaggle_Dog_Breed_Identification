@@ -56,5 +56,5 @@ with net.name_scope():
 - 训练中的参数设置：
   - 图片输入的size
   - learning的decay策略
-  - 
+- 使用更大的数据集景行数据扩充
 
