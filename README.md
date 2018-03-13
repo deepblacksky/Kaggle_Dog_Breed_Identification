@@ -56,5 +56,7 @@ with net.name_scope():
 - 训练中的参数设置：
   - 图片输入的size
   - learning的decay策略
-- 使用更大的数据集景行数据扩充
+- 使用更大的数据集进行数据扩充
+
+最终在kaggle上得分为0.00595， 排名Top6%
 
